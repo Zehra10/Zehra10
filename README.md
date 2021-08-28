@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zehra.
 - 👀 I’m interested in software.
-- 🌱 I’m currently learning HTML, CSS and Github..
+- 🌱 I’m currently learning HTML, CSS and JavaScript..
 
 <!---
 Zehra10/Zehra10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
